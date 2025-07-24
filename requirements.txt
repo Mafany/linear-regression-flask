@@ -1,0 +1,16 @@
+# Web framework
+Flask==3.0.2
+
+# Data manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine learning
+scikit-learn==1.4.2
+
+# Plotting (optional, for charts)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Optional: For JSON requests/responses if using APIs
+requests==2.31.0
